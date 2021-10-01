@@ -5,7 +5,7 @@ from calcular import Calculadora
 
 
 print("\n")
-print("Calculadora de Propinas, V0.1")
+print("Calculadora de Propinas, 2020")
 print("\n")
 
 menu_selection: Dict[str, str] = {
